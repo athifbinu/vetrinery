@@ -1,0 +1,2 @@
+# vetrinery
+static site
